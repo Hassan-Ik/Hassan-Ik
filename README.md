@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋! I am Hassan Ikram
+
+
 
 <!--
 **Hassan-Ik/Hassan-Ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +14,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
+
 -->
+
+
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Hassan-Ik.Hassan-Ik&color=00cf00)

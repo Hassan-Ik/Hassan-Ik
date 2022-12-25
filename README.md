@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Hassan-Ik.Hassan-Ik&color=00cf00)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Hassan-Ik.Hassan-Ik&color=00cf00)

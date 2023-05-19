@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 -->
 
 
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Hassan-Ik.Hassan-Ik&color=00cf00)
+![visitor badge](https://komarev.com/ghpvc/?username=Hassan-Ik)

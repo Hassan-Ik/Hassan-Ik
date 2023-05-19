@@ -70,21 +70,25 @@ I am a Software and Machine Learning Engineer, with 3 years experience in coding
  </tr>
 </table>
 
-<!--
-**Hassan-Ik/Hassan-Ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/Hassan-Ik/github-readme-stats"><img alt="Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Hassan-Ik&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/Hassan-Ik/github-readme-stats"><img alt="Hassan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Ik&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
 
-- 🔭 I’m currently working on ...
+
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+- ⚡ Fun fact: .. -->
 
--->
 
 
 ![visitor badge](https://komarev.com/ghpvc/?username=Hassan-Ik)

@@ -73,7 +73,7 @@ I am a Software and Machine Learning Engineer, with 3 years experience in coding
 
   ## GitHub Profile Stats 💻
   
-    <a href="https://github.com/Hassan-Ik/github-readme-stats"><img alt="Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Hassan-Ik&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/Hassan-Ik/github-readme-stats"><img alt="Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Hassan-Ik&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
   <a href="https://github.com/Hassan-Ik/github-readme-stats"><img alt="Hassan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Ik&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
 
 <!-- - 🔭 I’m currently working on ...

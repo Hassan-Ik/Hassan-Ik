@@ -3,7 +3,7 @@ I am a Software and Machine Learning Engineer, with 3 years experience in coding
 
 ## Favorite tools and technologies ⚙️
 
-<table>
+<table style="overflow: hidden; width: 100%; height: auto">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">

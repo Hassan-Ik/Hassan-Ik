@@ -1,4 +1,4 @@
-### Hi there 👋! Welcome to my Land, I am Hassan Ikram
+### Hi there 👋! I am Hassan Ikram
 I am a Software and Machine Learning Engineer, with 3 years experience in coding and development. I share some of my works here in my repo
 
 ## Favorite tools and technologies ⚙️

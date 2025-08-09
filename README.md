@@ -27,28 +27,36 @@ I'm a Python developer with a passion for AI and backend development. With 2+ of
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-                  <td align="center" width="96">
+                        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="jquery" />
       <br>Fast API
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td><td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+  <br>Linux
+</td>
+
     <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
   <br>Kubernetes
@@ -62,16 +70,8 @@ I'm a Python developer with a passion for AI and backend development. With 2+ of
   <br>PyTorch
 </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="tailwind" />
+        <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
       <br>Selenium
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
     </td>
   </tr>
  <tr>

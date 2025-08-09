@@ -56,8 +56,7 @@ I'm a Python developer with a passion for AI and backend development. With 2+ of
   <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
   <br>Linux
 </td>
-
-    <td align="center" width="96">
+<td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
   <br>Kubernetes
 </td>

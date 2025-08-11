@@ -27,6 +27,10 @@ I'm a Python developer with a passion for AI and backend development. With 2+ of
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
@@ -39,12 +43,17 @@ I'm a Python developer with a passion for AI and backend development. With 2+ of
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     </td>
-                        <td align="center" width="96">
+    <td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt=".NET icon" width="65" height="65" />
+  <br>.NET
+</td>
+
+  </tr>
+  <tr>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="jquery" />
       <br>Fast API
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React

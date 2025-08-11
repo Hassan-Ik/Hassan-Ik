@@ -44,7 +44,7 @@ I'm a Python developer with a passion for AI and backend development. With 2+ of
       <br>Django
     </td>
     <td align="center" width="96">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Microsoft_.NET_logo.svg" alt=".NET logo" width="65" height="65" />
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt=".NET logo" width="65" height="65" />
   <br>ASP.NET
 </td>
 
